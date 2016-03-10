@@ -1,3 +1,3 @@
-# -Metaprogramming
+##meta_programming
 
-Ruby Metaprogramming
+Learning Ruby Metaprogramming
